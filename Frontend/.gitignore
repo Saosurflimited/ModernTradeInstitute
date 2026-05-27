@@ -12,21 +12,27 @@ node_modules/
 
 # Environment files
 .env
+.env.*
 *.local
 
-# Build folders
+# Build outputs
 dist/
 build/
 dist-ssr/
 
-# Assets
+# Assets (large media)
 Frontend/src/assets/videos/
 
-# Editor directories and files
-.vscode/*
+# OS / Editor files
+.vscode/
 !.vscode/extensions.json
 .idea/
 .DS_Store
+
+# Windows files
+Thumbs.db
+
+# TypeScript / IDE artifacts
 *.suo
 *.ntvs*
 *.njsproj
