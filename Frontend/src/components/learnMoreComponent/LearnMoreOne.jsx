@@ -1,5 +1,5 @@
 import React from "react";
-import bgVideo from "../../assets/videos/202134-917314709_medium.mp4";
+import bgVideo from "../../../public/202134-917314709_medium.mp4";
 import { Link } from "react-router-dom";
 
 const LearnMoreOne = () => {

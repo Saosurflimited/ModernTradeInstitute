@@ -1,5 +1,5 @@
 import React from "react";
-import bgVideo from "../../assets/videos/176897-856259092_medium.mp4";
+import bgVideo from "../../../public/176897-856259092_medium.mp4";
 
 const ProgramOne = () => {
   return (

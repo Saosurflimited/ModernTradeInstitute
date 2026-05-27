@@ -1,5 +1,5 @@
 import React from "react";
-import bgVideo from "../../assets/videos/268230_medium.mp4";
+import bgVideo from "../../../public/268230_medium.mp4";
 import { Link } from "react-router-dom";
 
 const AboutOne = () => {
